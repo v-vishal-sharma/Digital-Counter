@@ -1,1 +1,1 @@
-# Digital-Counter
+Minimilistic Digital Counter.
